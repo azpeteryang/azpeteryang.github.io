@@ -7,10 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
-  <img src = "http://azpeteryang.github.io/images/picture.jpeg" width = "700ptx"/>
-</p>
-
 
 Hi! Thanks for checking my page! 
 
