@@ -14,7 +14,7 @@ redirect_from:
 
 Hi! Thanks for checking my page! 
 
-I'm Zhenyu Yang(张子琪). Many friends find it hard to pronounce my name correctly, then you can also call me Peter 
+I'm Zhenyu Yang. Many friends find it hard to pronounce my name correctly, then you can also call me Peter 
 
 I'm a Master student in [the School of Computational Science and Engineering, Georgia Institute of Technology](https://ece.gatech.edu). Before that, I was an undergraduate student in the department of communication Engineering, [University of Electronic Science and Technology of China](https://ev.buaa.edu.cn). 
 
