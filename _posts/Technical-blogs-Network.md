@@ -1,10 +1,11 @@
 ---
-title: 'Computer Networks'
+title: 'About Computer Netorks'
+date: 2020-03-17
+permalink: /posts/2020/03/blog-post-2/
 tags:
-  - 
-  - 
-  - 
+  - Computer Networks
 ---
+
 The blog is about simple basic knowledge about computer networks\
 The knowledge about HTTP:\
 ## 连接管理
