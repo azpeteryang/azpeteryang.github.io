@@ -51,9 +51,9 @@ Projects and research
 Skills
 ======
 * Coding
-  * Matlab, Python, C++/C, JavaScript, Pytorch, Sklearn, OpenCV, d3 
-* Software 
-  * Latex, ADS Simulation, Multisim Simulation, Altium Designer, Keil
+  * Matlab, Python, C++/C, JavaScript, Pytorch, TensorFlow
+* Others 
+  * git, Hadoop, OpenCV, MATLAB
 
 
 
