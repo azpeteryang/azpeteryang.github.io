@@ -55,15 +55,5 @@ Skills
 * Software 
   * Latex, ADS Simulation, Multisim Simulation, Altium Designer, Keil
 
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-* Teaching Assistant, CSE 6140 Algorithm, 2020Fall (Expected)
 
 
