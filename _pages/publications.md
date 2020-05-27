@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Writings"
+title: "Awards and Scholarships"
 permalink: /publications/
 author_profile: true
 ---
