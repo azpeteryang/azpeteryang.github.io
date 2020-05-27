@@ -55,9 +55,9 @@ Projects and research
   
   
 * Grouping Web Application
-  * Designed a single page web application to normalize analyte names semi-automatically for Duke University Hospital using React.js, MobX, and Bootstrap.  
+  * Designed a single page web application to normalize analyte names semi-automatically for Hospital using React.js, MobX, and Bootstrap.  
   * Communicated product design and project progress biweekly with stakeholders in person, incorporating feedback in an agile manner.  
-  * Reduced 40% data preparation time for future data science projects at Duke Health by generating 100% accurate analyte groupings.   
+  * Reduced 40% data preparation time for future data science projects by generating 100% accurate analyte groupings.   
   * Built a relational database in MySQL and handled queries through Object Relational Models with Python and SQLAlchemy
   * Created REST APIs to handle database requests and conducted unit test with Python Unittest framework.
 
