@@ -36,7 +36,6 @@ Projects and research
   * Arrived to the result that the optimized Multivariate Linear Model is the best model for the data and reached a very low error rate of 0.022%.
   * Did the data visualization of the water level data prediction. 
                                                                              
-
 * Positioning Software Based on Low Energy Bluetooth
   * Built up a software with Java which can show the position of an object, using RSSI propagation model to calculate the distance between the object and the anchor.
   * Applied Kalman filter on RSSI to improve the algorithm, ignored some measuring of RSSI which are larger than a threshold to let the closest anchors measure the distance.
@@ -47,13 +46,28 @@ Projects and research
   * Analyzed the bit error rate performance curve of the transmitting antenna under the independent Rayleigh channel, compare with the curve of the single transmitting-receiving antenna under the same conditions.
   * Simulated using two transmitted antennas to transmit in order to get the spatial diversity gain, used one receiving antenna to receive signals.
   * Arrived the result that the bit error rate has been significantly decreased after using space-time block codes. 
+
+* Order Analysis
+  * Performed anomaly detection and trend analysis on analyte orders with 40 million records using Fast Fourier transform and rolling bands.
+  * Identified analytes with abnormal number of orders, allowing hospitals to examine name trends and potentially reduce redundant tests.
+  * Implemented Bhattacharyya distance algorithm on value distribution to search for duplicate analyte with different names in Python.
+  * Generated interactive visualization for analyte ordering in analyte name groups with matplotlib, Dash, and Plot.ly visualization tools.  
   
+  
+* Grouping Web Application
+  * Designed a single page web application to normalize analyte names semi-automatically for Duke University Hospital using React.js, MobX, and Bootstrap.  
+  * Communicated product design and project progress biweekly with stakeholders in person, incorporating feedback in an agile manner.  
+  * Reduced 40% data preparation time for future data science projects at Duke Health by generating 100% accurate analyte groupings.   
+  * Built a relational database in MySQL and handled queries through Object Relational Models with Python and SQLAlchemy
+  * Created REST APIs to handle database requests and conducted unit test with Python Unittest framework.
+
+
 Skills
 ======
 * Coding
   * Matlab, Python, C++/C, JavaScript, Pytorch, TensorFlow
 * Others 
-  * git, Hadoop, OpenCV, MATLAB
+  * git, Hadoop, OpenCV, MATLAB, Android
 
 
 
