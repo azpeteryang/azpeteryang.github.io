@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Communication Engineering, UESTC, 2019
-* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2020 (expected)
+* B.S. in Communication Engineering, UESTC, 2014-2018
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2019-2020 (expected)
 
 Internship experience
 ======
-* Objection Detection Using Machine Learning Methods
+* Objection Detection Using Machine Learning Methods           (Zhun Xing Yun Xue Technology)  Jun-Aug 2017
   * Created a graph generator with multiprocessing techniques using OpenCV, generate large-scale datasets of simulated graphs.
   * Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of the detection.
   * Designed a model for object detection using optimized ResNet by Online Hard Example Mining.
   * The optimized model increased 3% accuracy and 3 times faster training speed comparing to the built-in ResNet in PyTorch.
 
-* Book Recommendation Website
+* Book Recommendation Website                                   (Gelan Technology)  Jun-Aug 2016
   * Designed a website which can recommend books to users based on their previous favorites.
   * Divided contents in the websites as slots and utilized Naïve Bayes algorithm to calculate the rating matrix for each website. 
   * Developed a scalable pipeline to process 203GB data using Hadoop and automated the batch processing pipeline
