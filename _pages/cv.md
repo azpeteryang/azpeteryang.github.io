@@ -28,7 +28,7 @@ Internship experience
   * Developed a scalable pipeline to process 203GB data using Hadoop and automated the batch processing pipeline
   * Created the frontend of the website using HTML and CSS with Bootstrap Framework.
 
-Projects and research
+Projects
 ======
 * The Achievement of Water Level Prediction Based on Machine Learning Algorithms 
   * Used Pearson correlation coefficient to design adaptive algorithms, reduce the weight of the data that is less relevant to the current prediction and reduce model complexity.
