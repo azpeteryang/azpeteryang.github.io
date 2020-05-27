@@ -15,5 +15,5 @@ I'm Zhenyu Yang. Many friends find it hard to pronounce my name correctly, then 
 I'm a Master student in [the School of Computational Science and Engineering, Georgia Institute of Technology](https://ece.gatech.edu). Before that, I was an undergraduate student in the department of communication Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
 
 
-I also did some work in the field of Machine Learning. Please check my resume for details
+I also did some work in the field of Data Science, Machine Learning, Data Visualizaion . Please check my resume for details
 
