@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards and Scholarships"
-permalink: /publications/
+permalink: /Awards and Scholarships/
 author_profile: true
 ---
 
