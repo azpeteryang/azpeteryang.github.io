@@ -36,20 +36,13 @@ Projects and research
   * Arrived to the result that the optimized Multivariate Linear Model is the best model for the data and reached a very low error rate of 0.022%.
   * Did the data visualization of the water level data prediction. 
   
-  
-* Order Analysis
-  * Performed anomaly detection and trend analysis on analyte orders with 40 million records using Fast Fourier transform and rolling bands.
-  * Identified analytes with abnormal number of orders, allowing hospitals to examine name trends and potentially reduce redundant tests.
-  * Implemented Bhattacharyya distance algorithm on value distribution to search for duplicate analyte with different names in Python.
-  * Generated interactive visualization for analyte ordering in analyte name groups with matplotlib, Dash, and Plot.ly visualization tools.  
-  
 
-* Grouping Web Application
+* Grouping Web Application for Hospital
   * Designed a web application to normalize analyte names semi-automatically for Hospital using React.js, MobX, and Bootstrap. 
-  * Communicated product design and project progress biweekly with stakeholders in person, incorporating feedback in an agile manner.  
-  * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.   
+  * Communicated product design and project progress biweekly with stakeholders in person, incorporating feedback in an agile manner.     
   * Built a relational database and handled queries through Object Relational Models with Python and SQLAlchemy
-  * Created REST APIs to handle database requests and conducted unit test with Python Unit-test framework.
+  * Created REST APIs to handle database requests and conducted unit test with Python Unit-test framework.  
+  * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.
 
 
 * Positioning Software Based on Low Energy Bluetooth
