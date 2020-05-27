@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications and Writings"
+  - title: "Awards and Scolarships"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Experiences"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Personal"
     url: /teaching/    
             
   - title: "Blog Posts"
