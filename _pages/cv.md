@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Communication Engineering, UESTC, 2014-2018
-* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2019-2020 (expected)
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2019- Dec 2020  
 
 Internship experience
 ======
@@ -68,7 +68,7 @@ Skills
 * Coding
   * Matlab, Python, C++/C, JavaScript, Pytorch, TensorFlow
 * Others 
-  * git, Hadoop, OpenCV, MATLAB, Android
+  * git, Hadoop, OpenCV, MATLAB, Android, Arduino
 
 
 
