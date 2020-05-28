@@ -68,7 +68,7 @@ Skills
 * Coding
   * Matlab, Python, C++/C, JavaScript, Pytorch, TensorFlow
 * Others 
-  * git, Hadoop, OpenCV, MATLAB, Android, Arduino
+  * git, Hadoop, OpenCV, MATLAB, Android, Arduino, AB Testing
 
 
 
