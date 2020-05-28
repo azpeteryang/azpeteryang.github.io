@@ -49,11 +49,18 @@ Projects
   * Applied Kalman filter on RSSI to improve the algorithm, ignored some measuring of RSSI which are larger than a threshold to let the closest anchors measure the distance.
   * Used MATLAB to simulate the results of the new algorithm, reached high accuracy of positioning.
   
+  
 * Analysis STBC-MIMO System Under Rayleigh Channel
   * Conduct research on STBC-MIMO system and Space-time block code, used Simulink to build the system model and did preliminary simulation of the system.
   * Analyzed the bit error rate performance curve of the transmitting antenna under the independent Rayleigh channel, compare with the curve of the single transmitting-receiving antenna under the same conditions.
   * Simulated using two transmitted antennas to transmit in order to get the spatial diversity gain, used one receiving antenna to receive signals.
   * Arrived the result that the bit error rate has been significantly decreased after using space-time block codes. 
+
+
+* Psychological Regulation System Based on VR
+  * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users’ respective psychological conditions.
+  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.
+  * Developed a method using Arduino to send data collected from brainwave and skin conductor sensors.
 
 
 Skills
