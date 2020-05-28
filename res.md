@@ -13,28 +13,36 @@
  * Pioneered the expansion of customer accessibility by allowing those operating with Mbed to utilize functions
     available through the AWS libraries to connect personal devices.
   
- Software engineer Intern WeWork Jun. 2019-Aug. 2019
- Redesigned the workflow of CI/CD for migrating the service from Heroku to internal Kubernetes Cluster.
- Designed database migration plan for service migration to prevent downtime and data loss.
- Enabled the different sales teams to edit product detail by implementing the UPDATE API and integrated
-authentication filter for access control in the Service based on Spring Boot.
+ Software engineer Intern WeWork Jun. 2019-Aug. 2019   
+ Redesigned the workflow of CI/CD for migrating the service from Heroku to internal Kubernetes Cluster.   
+ Designed database migration plan for service migration to prevent downtime and data loss.   
+ Enabled the different sales teams to edit product detail by implementing the UPDATE API and integrated   
+authentication filter for access control in the Service based on Spring Boot.   
  Enhanced internal API doc system to retrieve information dynamically from URL by refactoring the API sniffer
-using Ruby.  
+using Ruby.     
 
 
-Software engineer Intern SAP Sept. 2017-Mar. 2018
+Software engineer Intern SAP Sept. 2017-Mar. 2018   
  Optimized login process by implementing a Single-Sign-On mechanism based on Shibboleth for clients’ identity
-management system.
- Built a demo integrating Ethereum as persistent storage to clients’ identity management system.
- Reduced repeating operation in MS Project by implementing VBA scripts for different working scenarios.
+management system.   
+ Built a demo integrating Ethereum as persistent storage to clients’ identity management system.   
+ Reduced repeating operation in MS Project by implementing VBA scripts for different working scenarios.   
  
- Software engineer Intern CloudWiz Jul. 2017-Sept. 2017
- Implemented multiple metrics collectors scripts using Python for services such as RabbitMQ and PostgreSQL.
- Improved metrics collecting process through Nginx’s reverse proxy for client’s intranet systems.
+ Software engineer Intern CloudWiz Jul. 2017-Sept. 2017   
+ Implemented multiple metrics collectors scripts using Python for services such as RabbitMQ and PostgreSQL.   
+ Improved metrics collecting process through Nginx’s reverse proxy for client’s intranet systems.   
  Designed the automatic upgrade mechanism for metrics collectors in clients’ distributed server using
-checksum of the latest collectors.
+checksum of the latest collectors.   
 
-
+Software Engineer at Amazon Game Studios 08/2016 ~ 10/2017   
+Project: Game Services and Core Engine Technology   
+• Using C++ to construct new features with Lumberyard pipeline, allowing users to import files and folders without locally copying and pasting through directories. Using Qt5 framework to realize dialogs and menu options functionalities.   
+• Collaborated with product managers to design and implement the customer scoring system, including UI implementation with Qt5, dialog   
+prompting decision mechanism, and data streaming into backend data warehouse.   
+• Implemented a feature to create a unified UI and backend behavior for file drag and drop across all windows in our product, as well as an efficient and cross-platform directory visualization method.   
+• Applied the feature that flexibly collects and asynchronously sends customer telemetry data at various parts of the engine, including UI behaviors, hardware specification, and feature usages.   
+• Collaborated with QA members with owned written unit tests throughout the production period, verifying complex and unclear bugs for steps of the bugs’ reproductions and the solution confirmations, improving productivity of bug fixing time.   
+• Work with UX members to replace the old menu layout with the newly designed, implemented menu layout.   
 
 
 # Health Informatics
@@ -64,33 +72,25 @@ checksum of the latest collectors.
   * Developed a scalable pipeline to process 203GB data using Hadoop and automated the batch processing pipeline
   * Created the frontend of the website using HTML and CSS with Bootstrap Framework.  
   
-  Data Scientist
-
-SoFi, CA
-• Mined and analyzed data from company and third-party vendor databases to drive Homeloan digital marketing
-campaigns optimization by executing A/B testing and forging a lending product propensity model with Python,
-PostgreSQL and AWS, which amplified response rate by 12% on average.
+  Data Scientist  SoFi, CA
+• Mined and analyzed data from company and third-party vendor databases to drive Homeloan digital marketing campaigns optimization by executing A/B testing and forging a lending product propensity model with Python, PostgreSQL and AWS, which amplified response rate by 12% on average.   
 • Established the customer lifecycle dashboard on Tableau to track all marketing touch points through the funnel
-and engineered a campaign measurement framework to boost upcoming campaigns success rates.
+and engineered a campaign measurement framework to boost upcoming campaigns success rates.   
 • Programmed SoFi's first Homeloan awareness campaign by selecting markets, identifying the right channels,
-marketing budget optimization and potential customer profiling.
+marketing budget optimization and potential customer profiling.   
 • Manipulated large dataset on AWS to perform analysis to optimize marketing strategies for growth and evaluate
-business hypothesis.
+business hypothesis.   
 • Developed an uplifting model to measure net lift of Student Loan Refinance DM campaigns and leverage the
-result to drive upcoming campaigns action, which increased the response rate by around 20% on average.
+result to drive upcoming campaigns action, which increased the response rate by around 20% on average.   
   
   
 Data Scientist
 
 SAP, CA
-• Led in developing a recommendation system in production for Configure Price Quote product to optimize sale
-process with an ensemble of matrix factorization, sparse linear methods and evolution analysis etc., which
-achieved 3% revenue increase in cross sell and 2% in up sell on average.
-• Provided data-driven strategies and business insights for SAP LeadRocket Marketing automation product to
-enhance the efficiency of email campaigns and sales events resulting in increased conversion rate of 5% in 3
-months.
+• Led in developing a recommendation system in production for Configure Price Quote product to optimize sale process with an ensemble of matrix factorization, sparse linear methods and evolution analysis etc., which achieved 3% revenue increase in cross sell and 2% in up sell on average.   
+• Provided data-driven strategies and business insights for SAP LeadRocket Marketing automation product to enhance the efficiency of email campaigns and sales events resulting in increased conversion rate of 5% in 3 months.   
 • Collaborated with product, and engineering teams to develop feedback system to monitor key metrics for SAP AI
-performance and published dashboards for SAP AI Products.  
+performance and published dashboards for SAP AI Products.      
   
   
   
