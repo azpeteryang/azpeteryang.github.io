@@ -43,7 +43,7 @@ Projects
   * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.
   
                         
-* Psychological Regulation System Based on VR   
+* Psychological Regulation System      
   * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users’ respective psychological conditions.   
   * Used Arduino to develop a method to send data collected from brainwave and skin conductor sensors.   
   * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.      
