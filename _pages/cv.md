@@ -30,6 +30,20 @@ Internship experience
 
 Projects
 ======
+
+* Research on the Internet of Nano-things
+  * Conducted Research on Plasmonic Nano Antennas for Wireless Network of Nano sensors
+  * Compared the effect of using Plasmonic Nano Antennas and using classical antenna(Perfect Electrical Conductor behavior)
+  * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band 
+  
+  
+* Psychological Regulation System Based on VR
+  * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users’ respective psychological conditions.
+  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.
+  * Developed a method using Arduino to send data collected from brainwave and skin conductor sensors.
+
+
+
 * The Achievement of Water Level Prediction Based on Machine Learning Algorithms 
   * Used Pearson correlation coefficient to design adaptive algorithms, reduce the weight of the data that is less relevant to the current prediction and reduce model complexity.
   * Optimized and Approved the machine learning models (Multivariate Linear Model, Ridge Regression Model, SVM) based on scikit-learn to predict the water level. 
@@ -55,22 +69,6 @@ Projects
   * Analyzed the bit error rate performance curve of the transmitting antenna under the independent Rayleigh channel, compare with the curve of the single transmitting-receiving antenna under the same conditions.
   * Simulated using two transmitted antennas to transmit in order to get the spatial diversity gain, used one receiving antenna to receive signals.
   * Arrived the result that the bit error rate has been significantly decreased after using space-time block codes. 
-
-
-* Psychological Regulation System Based on VR
-  * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users’ respective psychological conditions.
-  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.
-  * Developed a method using Arduino to send data collected from brainwave and skin conductor sensors.
-
-
-* Research on the Internet of Nano-things
-  * Conducted Research on Plasmonic Nano Antennas for Wireless Network of Nano sensors
-  *
-  * 
-
-
-
-
 
 
 
