@@ -31,8 +31,8 @@ Internship experience
 Projects
 ======
 
-* Research on the Internet of Nano-things
-  * Conducted Research on Plasmonic Nano Antennas for Wireless Network of Nano sensors
+* Research on the Plasmonic Nano Antenna
+  * Conducted Research on Plasmonic Nano Antenna for Wireless Network of Nano sensors
   * Compared the effect of using Plasmonic Nano Antennas and using classical antenna(Perfect Electrical Conductor behavior)
   * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band 
   
