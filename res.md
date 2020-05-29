@@ -72,16 +72,12 @@ prompting decision mechanism, and data streaming into backend data warehouse.
   * Developed a scalable pipeline to process 203GB data using Hadoop and automated the batch processing pipeline
   * Created the frontend of the website using HTML and CSS with Bootstrap Framework.  
   
-  Data Scientist  SoFi, CA
+  Data Scientist  SoFi, CA   
 • Mined and analyzed data from company and third-party vendor databases to drive Homeloan digital marketing campaigns optimization by executing A/B testing and forging a lending product propensity model with Python, PostgreSQL and AWS, which amplified response rate by 12% on average.   
-• Established the customer lifecycle dashboard on Tableau to track all marketing touch points through the funnel
-and engineered a campaign measurement framework to boost upcoming campaigns success rates.   
-• Programmed SoFi's first Homeloan awareness campaign by selecting markets, identifying the right channels,
-marketing budget optimization and potential customer profiling.   
-• Manipulated large dataset on AWS to perform analysis to optimize marketing strategies for growth and evaluate
-business hypothesis.   
-• Developed an uplifting model to measure net lift of Student Loan Refinance DM campaigns and leverage the
-result to drive upcoming campaigns action, which increased the response rate by around 20% on average.   
+• Established the customer lifecycle dashboard on Tableau to track all marketing touch points through the funnel and engineered a campaign measurement framework to boost upcoming campaigns success rates.   
+• Programmed SoFi's first Homeloan awareness campaign by selecting markets, identifying the right channels, marketing budget optimization and potential customer profiling.   
+• Manipulated large dataset on AWS to perform analysis to optimize marketing strategies for growth and evaluate business hypothesis.   
+• Developed an uplifting model to measure net lift of Student Loan Refinance DM campaigns and leverage the result to drive upcoming campaigns action, which increased the response rate by around 20% on average.   
   
   
 Data Scientist
@@ -93,7 +89,10 @@ SAP, CA
 performance and published dashboards for SAP AI Products.      
   
   
-  
+  * Big Data Analytics on Wikipedia dataset with MapReduce                                   (Gelan Technology)  Jun-Aug 2016
+  * Utilized Terraform to create and manage Hadoop cluster (1 master node and 15 core node) on AWS EMR.
+  * Developed Data Filter and MapReduce Program in Java based on test-driven development with Junit and MRunit to process a large text dataset(128GB) from Wikipedia
+  * Ran MapReduce jobs on AWS EMR and analyzed output data on Jupyter Notebook with Pandas Library
   
   
   
@@ -126,7 +125,22 @@ quantitative analysis about the stock market, which also beat the benchmarks by 
 • Conducted researches on the different stock sectors performance to provided data-driven decisions for
 investment.
   
-  
+
+* Quantitative Analyst                                         (Gelan Technology)  Jun-Aug 2016
+  * Developed a faster method for big data's rolling polynomial regression by applying the expansion of normal equations, increasing the effeciency by over 200 times than the original method.
+  * Refactored a function to fill in missing financial data in comapny's database, increase effeciency by turning loop operations into column operations and improved filling accuracy by seasonal decomposition.
+  * Built a model based on AR-OLS to predict the dispersion of stock market according to its autocorrelation and its relationship with stock markets' volatility, the average residual is less than half of the traditional statistical models.
+  * Quantitatively defined 47 different form factors and back-tested them to calculate excess returns and classified them according to their performance.
+
+
+
+
+
+
+
+
+
+
   # Skills
   Python: pandas, seaborn, matplotlib, scikit-learn, dask, sqlalchemy, sqlite3  
   R: future, ggplot, RSQLite, R6, devtools, stringr, dplyr
