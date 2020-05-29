@@ -63,6 +63,20 @@ Projects
   * Developed a method using Arduino to send data collected from brainwave and skin conductor sensors.
 
 
+* Research on the Internet of Nano-things
+  * Conducted Research on Plasmonic Nano Antennas for Wireless Network of Nano sensors
+  *
+  * 
+
+
+
+
+
+
+
+
+
+
 Skills
 ======
 * Coding
