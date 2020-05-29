@@ -36,16 +36,17 @@ Internship experience
 Projects
 ======
 
-* Research on the Plasmonic Nano Antenna
-  * Conducted Research on Plasmonic Nano Antenna for Wireless Network of Nano sensors
-  * Compared the effect of using Plasmonic Nano Antennas and using classical antenna(Perfect Electrical Conductor behavior)
-  * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band 
+* Research on the Plasmonic Nano Antenna  
+  * Conducted Research on Plasmonic Nano Antenna for Wireless Network of Nano sensors   
+  * Compared the effect of using Plasmonic Nano Antennas and using classical antenna (Assume the classical atenna has Perfect Electrical Conductor behavior)   
+  * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band    
+  * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.
   
-  
-* Psychological Regulation System Based on VR
-  * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users’ respective psychological conditions.
-  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.
-  * Developed a method using Arduino to send data collected from brainwave and skin conductor sensors.
+
+* Psychological Regulation System Based on VR   
+  * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users’ respective psychological conditions.   
+  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.   
+  * Developed a method using Arduino to send data collected from brainwave and skin conductor sensors.   
 
 
 
