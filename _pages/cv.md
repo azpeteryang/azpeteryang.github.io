@@ -24,12 +24,12 @@ Internship experience
 
 * Software Engineer at Gelan Technology                                                                 Jan-Jul 2018   
   Project: Game Services and Core Engine Technology   
-* Using C++ to construct new features with Lumberyard pipeline, allowing users to import files and folders without locally     pasting through directories.          
-* Collaborated with product managers to design and implement the customer scoring system, including UI implementation with Qt5, dialog prompting decision mechanism, and data streaming into backend data warehouse.      
-* Implemented a feature to create a unified UI and backend behavior for file across all windows in our product, as well as an efficient and cross-platform directory visualization method.      
-* Applied the feature that flexibly collects and asynchronously sends customer telemetry data at various parts of the engine, including UI behaviors, hardware specification, and feature usages.      
-* Collaborated with QA members with owned written unit tests throughout the production period, verifying complex and unclear bugs for steps of the bugs’ reproductions and the solution confirmations, improving productivity of bug fixing time.      
-* Work with UX members to replace the old menu layout with the newly designed, implemented menu layout.      
+  * Using C++ to construct new features with Lumberyard pipeline, allowing users to import files and folders without locally     pasting through directories.          
+  * Collaborated with product managers to design and implement the customer scoring system, including UI implementation with Qt5, dialog prompting decision mechanism, and data streaming into backend data warehouse.      
+  * Implemented a feature to create a unified UI and backend behavior for file across all windows in our product, as well as an efficient and cross-platform directory visualization method.      
+  * Applied the feature that flexibly collects and asynchronously sends customer telemetry data at various parts of the engine, including UI behaviors, hardware specification, and feature usages.      
+  * Collaborated with QA members with owned written unit tests throughout the production period, verifying complex and unclear bugs for steps of the bugs’ reproductions and the solution confirmations, improving productivity of bug fixing time.      
+  * Work with UX members to replace the old menu layout with the newly designed, implemented menu layout.      
 
 
 
