@@ -6,12 +6,6 @@ author_profile: true
 ---
 
 
-* "Jiuzhou" Company Scholarship (Only 5 people in the institute) (2015)   
-
-* "People's Scholarship" (2016) 
-
-* "People's Scholarship" (2017)
-
 * The Best Research Award in the Undergrad School (2015)
 
 * The 3rd National Spoken English Competition, National First Prize (2015)  
@@ -28,10 +22,12 @@ author_profile: true
 
 * The National Third Grade Sports athletes  (2010)  
 
-* The First Prize of the Radio Direction Finding Competition in the city (2011)  
+* The First Prize of the Radio Direction Finding Competition in the city (2011)    
 
+* "People's Scholarship" (2017) 
 
+* "People's Scholarship" (2016)
 
-
+* "Jiuzhou" Scholarship (Only 5 people in the institute) (2015) 
  
 
