@@ -16,17 +16,23 @@ Education
 
 Internship experience
 ======
-* Objection Detection Using Machine Learning Methods           (Zhun Xing Yun Xue Technology)  Jun-Aug 2017
+* Objection Detection Using Machine Learning Methods at Zhun Xing Yun Xue Technology                  Jun-Aug 2017
   * Created a graph generator with multiprocessing techniques using OpenCV, generate large-scale datasets of simulated graphs.
   * Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of the detection.
   * Designed a model for object detection using optimized ResNet by Online Hard Example Mining.
   * The optimized model increased 3% accuracy and 3 times faster training speed comparing to the built-in ResNet in PyTorch.
 
-* Book Recommendation Website                                   (Gelan Technology)  Jun-Aug 2016
-  * Designed a website which can recommend books to users based on their previous favorites.
-  * Divided contents in the websites as slots and utilized Naïve Bayes algorithm to calculate the rating matrix for each website. 
-  * Developed a scalable pipeline to process 203GB data using Hadoop and automated the batch processing pipeline
-  * Created the frontend of the website using HTML and CSS with Bootstrap Framework.
+Software Engineer at Gelan Technology                                                                 Jan-Jul 2018   
+Project: Game Services and Core Engine Technology   
+• Using C++ to construct new features with Lumberyard pipeline, allowing users to import files and folders without locally copying and pasting through directories. Using Qt5 framework to realize dialogs and menu options functionalities.   
+• Collaborated with product managers to design and implement the customer scoring system, including UI implementation with Qt5, dialog   
+prompting decision mechanism, and data streaming into backend data warehouse.   
+• Implemented a feature to create a unified UI and backend behavior for file drag and drop across all windows in our product, as well as an efficient and cross-platform directory visualization method.   
+• Applied the feature that flexibly collects and asynchronously sends customer telemetry data at various parts of the engine, including UI behaviors, hardware specification, and feature usages.   
+• Collaborated with QA members with owned written unit tests throughout the production period, verifying complex and unclear bugs for steps of the bugs’ reproductions and the solution confirmations, improving productivity of bug fixing time.   
+• Work with UX members to replace the old menu layout with the newly designed, implemented menu layout.   
+
+
 
 Projects
 ======
