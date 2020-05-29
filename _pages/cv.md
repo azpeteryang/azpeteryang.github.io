@@ -45,8 +45,8 @@ Projects
                         
 * Psychological Regulation System Based on VR   
   * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users’ respective psychological conditions.   
-  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.   
-  * Developed a method using Arduino to send data collected from brainwave and skin conductor sensors.   
+  * Used Arduino to develop a method to send data collected from brainwave and skin conductor sensors.   
+  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.      
 
 
                      
