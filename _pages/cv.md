@@ -43,10 +43,11 @@ Projects
   * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.
   
                         
-* Psychological Regulation System      
-  * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users’ respective psychological conditions.   
-  * Used Arduino to develop a method to send data collected from brainwave and skin conductor sensors.   
-  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users’ physiological data via curve graph in real time.      
+* Psychological Regulation System                         
+  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
+  * Collected the Visual evoked potential data for EEG analysis.
+  * Implemented Logistic Regression to do the EEG real-time data analysis. Please see the code at [https://github.com/azpeteryang/EEGanalysis]
+  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.      
 
 
                      
