@@ -60,7 +60,7 @@ Projects
 
                 
 * Grouping Web Application for Hospital
-  * Designed a web application to normalize analyte names semi-automatically for Hospital using React.js, MobX, and Bootstra  
+  * Designed a web application to normalize analyte names semi-automatically for Hospital using React.js, MobX, and Bootstrap
   * Built a relational database and handled queries through Object Relational Models with SQLAlchemy and Python.
   * Created REST APIs to handle database requests and conducted unit test with Python Unit-test framework.  
   * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.
