@@ -43,7 +43,7 @@ Projects
   * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.
   
                         
-* Psychological Regulation System                         
+* User Experience System Based on EEG and VR                         
   * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
   * Collected the Visual evoked potential data for EEG analysis.
   * Implemented Logistic Regression to do the EEG real-time data analysis. Please see the code at [https://github.com/azpeteryang/EEGanalysis]
