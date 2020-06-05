@@ -36,11 +36,11 @@ Internship experience
 Projects
 ======
 
-* Research on the Plasmonic Nano Antenna  
-  * Conducted Research on Plasmonic Nano Antenna for Wireless Network of Nano sensors   
-  * Compared the effect of using Plasmonic Nano Antennas and using classical antenna (assuming the classical atenna has Perfect Electrical Conductor behavior)   
-  * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band    
-  * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.
+* Research on the Plasmonic Nano Sensors        
+  * Conducted Research on Nano Sensors and design Antenna for Wireless Network communication of Nano Sensors         
+  * Compared the effect of using Plasmonic Nano Antennas and using classical antenna (assuming the classical atenna has Perfect Electrical Conductor behavior)     
+  * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band          
+  * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.      
   
                         
 * User Experience System Based on EEG and VR                         
