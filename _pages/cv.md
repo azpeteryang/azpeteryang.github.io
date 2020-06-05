@@ -16,7 +16,7 @@ Education
 
 Internship experience
 ======
-* Objection Detection Using Machine Learning Methods at Zhun Xing Yun Xue Technology                  Jun-Aug 2017
+* Objection Detection Using Machine Learning Methods at Zhun Xing Yun Xue Technology                    Jun-Aug 2017
   * Created a graph generator with multiprocessing techniques using OpenCV, generate large-scale datasets of simulated graphs.
   * Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of the detection.
   * Designed a model for object detection using optimized ResNet by Online Hard Example Mining.
@@ -34,28 +34,28 @@ Internship experience
 
 
 Projects
-======
-
-* Research on the Plasmonic Nano Sensors        
-  * Conducted Research on Nano Sensors and design Antenna for Wireless Network communication of Nano Sensors         
-  * Compared the effect of using Plasmonic Nano Antennas and using classical antenna (assuming the classical atenna has Perfect Electrical Conductor behavior)     
-  * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band          
-  * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.      
+======     
   
-                        
-* User Experience System Based on EEG and VR                         
-  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
-  * Collected the Visual evoked potential data for EEG analysis.
-  * Implemented Logistic Regression to do the EEG real-time data analysis. Please see the code at [https://github.com/azpeteryang/EEGanalysis]
-  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.      
-
-
-                     
 * The Achievement of Water Level Prediction Based on Machine Learning Algorithms 
   * Used Pearson correlation coefficient to design adaptive algorithms, reduce the weight of the data that is less relevant to the current prediction and reduce model complexity.
   * Optimized and Approved the machine learning models (Multivariate Linear Model, Ridge Regression Model, SVM) based on scikit-learn to predict the water level. 
   * Arrived to the result that the optimized Multivariate Linear Model is the best model for the data and reached a very low error rate of 0.022%.
-  * Did the data visualization of the water level data prediction. 
+  * Did the data visualization of the water level data prediction.       
+  
+  
+* User Experience System Based on EEG and VR                         
+  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
+  * Collected the Visual evoked potential data for EEG analysis.
+  * Implemented Logistic Regression to do the EEG real-time data analysis. 
+  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.      
+
+
+* Research on Nano Sensors        
+  * Conducted Research on Nano Sensors and designed Antenna for Wireless Network communication of Nano Sensors         
+  * Compared the effect of using Plasmonic Nano Antennas and using classical antenna (assuming the classical atenna has Perfect Electrical Conductor behavior)     
+  * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band          
+  * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.       
+ 
   
 
                 
@@ -65,13 +65,15 @@ Projects
   * Created REST APIs to handle database requests and conducted unit test with Python Unit-test framework.  
   * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.
 
+
                            
 * Positioning Software Based on Low Energy Bluetooth
   * Built up a software with Java which can show the position of an object, using RSSI propagation model to calculate the distance between the object and the anchor.
   * Applied Kalman filter on RSSI to improve the algorithm, ignored some measuring of RSSI which are larger than a threshold to let the closest anchors measure the distance.
   * Used MATLAB to simulate the results of the new algorithm, reached high accuracy of positioning.
   
-                   
+     
+     
 * Analysis STBC-MIMO System Under Rayleigh Channel
   * Conduct research on STBC-MIMO system and Space-time block code, used Simulink to build the system model and did preliminary simulation of the system.
   * Analyzed the bit error rate performance curve of the transmitting antenna under the independent Rayleigh channel, compare with the curve of the single transmitting-receiving antenna under the same conditions.
@@ -88,7 +90,7 @@ Skills
 * Coding
   * Matlab, Python, C++/C, JavaScript, Pytorch, TensorFlow
 * Others 
-  * git, Hadoop, OpenCV, MATLAB, Android, Arduino, AB Testing
+  * git, Hadoop, OpenCV, MATLAB, Android, Arduino, A/B Testing
 
 
 
