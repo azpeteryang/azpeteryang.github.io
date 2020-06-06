@@ -95,7 +95,14 @@ performance and published dashboards for SAP AI Products.
   * Ran MapReduce jobs on AWS EMR and analyzed output data on Jupyter Notebook with Pandas Library
   
   
-  
+* Machine Learning Engineer Internship
+ * Developed a neural machine translation system based on neural network architecture Transformer.     
+ * Collected and preprocessed training data by Truecasing, Tokenization, and Normalization.      
+ * Improved translation system performance by 4.5 BLEU score through Fine-tuning, Back-translation, Model Ensembling, and Reranking.     
+ * Used Postman to do API testing, prepared analysis report by drawing comparisons between competing products such as Google Translate, Youdao Translate.     
+ * Applied the system into commercial use, added an internal instant messaging app with live translation function.     
+
+
   
   # Product Manager
   
