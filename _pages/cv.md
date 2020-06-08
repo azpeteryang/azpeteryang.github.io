@@ -37,26 +37,24 @@ Internship experience
 
 Projects
 ======     
+
+* User Experience System Based on EEG and VR                         
+  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
+  * Collected the Visual evoked potential data for EEG analysis.
+  * Implemented Logistic Regression to do the EEG real-time data analysis. 
+  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
   
-* Automatic Question Answer System Design 
-  * Created a dociment context clustering model with word embedding
-  * Optimized and Approved the machine learning models (Multivariate Linear Model, Ridge Regression Model, SVM) based on scikit-learn to predict the water level. 
-  * Arrived to the result that the optimized Multivariate Linear Model is the best model for the data and reached a very low error rate of 0.022%.
-  * Did the data visualization of the water level data prediction.
+* Context Clustering Model Design 
+  * Created a dociment context clustering model with word embedding, updated it to GPU version with NUmba, accelearating the clustering speed more than 10 times.            
+  * Created a document classifier with CNN model to automatically classify the in-coming decument with an accuracy of more than 90%.            
+  * Fine-tuned BERT model for ducument clustering and question ansering task.            
 
 
 * The Achievement of Water Level Prediction Based on Machine Learning Algorithms 
   * Used Pearson correlation coefficient to design adaptive algorithms, reduce the weight of the data that is less relevant to the current prediction and reduce model complexity.
   * Optimized and Approved the machine learning models (Multivariate Linear Model, Ridge Regression Model, SVM) based on scikit-learn to predict the water level. 
   * Arrived to the result that the optimized Multivariate Linear Model is the best model for the data and reached a very low error rate of 0.022%.
-  * Did the data visualization of the water level data prediction.       
-  
-  
-* User Experience System Based on EEG and VR                         
-  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
-  * Collected the Visual evoked potential data for EEG analysis.
-  * Implemented Logistic Regression to do the EEG real-time data analysis. 
-  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.      
+  * Did the data visualization of the water level data prediction.            
 
 
 * Research on Nano Sensors        
@@ -65,8 +63,6 @@ Projects
   * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band          
   * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.       
  
-  
-
                 
 * Grouping Web Application for Hospital
   * Designed a web application to normalize analyte names semi-automatically for Hospital using React.js, MobX, and Bootstrap
