@@ -45,8 +45,8 @@ Projects
   * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
   
 * Context Clustering Model Design 
-  * Created a dociment context clustering model with word embedding, updated it to GPU version with NUmba, accelearating the clustering speed more than 10 times.            
-  * Created a document classifier with CNN model to automatically classify the in-coming decument with an accuracy of more than 90%.            
+  * Created a dociment context clustering model with word embedding, updated it to GPU version with Numba, accelearating the clustering speed.            
+  * Created a document classifier with CNN model to automatically classify the in-coming documents with an accuracy of more than 90%.            
   * Fine-tuned BERT model for ducument clustering and question ansering task.            
 
 
