@@ -38,6 +38,13 @@ Internship experience
 Projects
 ======     
   
+* Automatic Question Answer System Design 
+  * Created a dociment context clustering model with word embedding
+  * Optimized and Approved the machine learning models (Multivariate Linear Model, Ridge Regression Model, SVM) based on scikit-learn to predict the water level. 
+  * Arrived to the result that the optimized Multivariate Linear Model is the best model for the data and reached a very low error rate of 0.022%.
+  * Did the data visualization of the water level data prediction.
+
+
 * The Achievement of Water Level Prediction Based on Machine Learning Algorithms 
   * Used Pearson correlation coefficient to design adaptive algorithms, reduce the weight of the data that is less relevant to the current prediction and reduce model complexity.
   * Optimized and Approved the machine learning models (Multivariate Linear Model, Ridge Regression Model, SVM) based on scikit-learn to predict the water level. 
