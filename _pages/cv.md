@@ -39,7 +39,7 @@ Internship experience
 Projects
 ======     
 
-* Machine Learning Engineer Internship.     
+* Machine Learning Engineer Lab Research.          
    * Developed a neural machine translation system based on neural network architecture Transformer.      
    * Collected and preprocessed training data by Truecasing, Tokenization, and Normalization.      
    * Improved translation system performance by 4.5 BLEU score through Fine-tuning, Back-translation, Model Ensembling, and        Reranking.      
