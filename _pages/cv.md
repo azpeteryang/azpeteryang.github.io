@@ -23,6 +23,7 @@ Internship experience
   * Designed a model for object detection using optimized ResNet by Online Hard Example Mining.
   * The optimized model increased 3% accuracy and 3 times faster training speed comparing to the built-in ResNet in PyTorch.
             
+            
 * Software Engineer at Gelan Technology                                                                
    Jan-Jul 2018   
   Project: Game Services and Core Engine Technology   
@@ -43,6 +44,7 @@ Projects
    * Collected and preprocessed training data by Truecasing, Tokenization, and Normalization.      
    * Improved translation system performance by 4.5 BLEU score through Fine-tuning, Back-translation, Model Ensembling, and        Reranking.      
    * Used Postman to do API testing, prepared analysis report by drawing comparisons between competing products such as Google      Translate, Youdao Translate.         
+
 
 * User Experience System Based on EEG and VR                         
   * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
