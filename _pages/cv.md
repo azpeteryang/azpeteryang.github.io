@@ -38,6 +38,12 @@ Internship experience
 Projects
 ======     
 
+* Machine Learning Engineer Internship.     
+   * Developed a neural machine translation system based on neural network architecture Transformer.      
+   * Collected and preprocessed training data by Truecasing, Tokenization, and Normalization.      
+   * Improved translation system performance by 4.5 BLEU score through Fine-tuning, Back-translation, Model Ensembling, and        Reranking.      
+   * Used Postman to do API testing, prepared analysis report by drawing comparisons between competing products such as Google      Translate, Youdao Translate.         
+
 * User Experience System Based on EEG and VR                         
   * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
   * Collected the Visual evoked potential data for EEG analysis.
