@@ -51,7 +51,8 @@ Projects
   * Collected the Visual evoked potential data for EEG analysis.
   * Implemented Logistic Regression to do the EEG real-time data analysis. 
   * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
-  
+ 
+ 
 * Context Clustering Model Design 
   * Created a dociment context clustering model with word embedding, updated it to GPU version with Numba, accelearating the clustering speed.            
   * Created a document classifier with CNN model to automatically classify the in-coming documents with an accuracy of more than 90%.            
