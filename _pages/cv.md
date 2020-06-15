@@ -31,19 +31,29 @@ Internship experience
   * Collaborated with product managers to design and implement the customer scoring system, including UI implementation with Qt5, dialog prompting decision mechanism, and data streaming into backend data warehouse.      
   * Implemented a feature to create a unified UI and backend behavior for file across all windows in our product, as well as an efficient and cross-platform directory visualization method.      
   * Applied the feature that flexibly collects and asynchronously sends customer telemetry data at various parts of the engine, including UI behaviors, hardware specification, and feature usages.      
-  * Collaborated with QA members with owned written unit tests throughout the production period, verifying complex and unclear bugs for steps of the bugs’ reproductions and the solution confirmations, improving productivity of bug fixing time.      
-  * Work with UX members to replace the old menu layout with the newly designed, implemented menu layout.      
+  * Collaborated with QA members with owned written unit tests throughout the production period, verifying complex and unclear bugs for steps of the bugs’ reproductions and the solution confirmations, improving productivity of bug fixing time.            
 
 
 
 Projects
 ======     
 
-* Machine Learning Engineer Lab Research.          
+* Translation System Design for Hospital               
    * Developed a neural machine translation system based on neural network architecture Transformer.      
    * Collected and preprocessed training data by Truecasing, Tokenization, and Normalization.      
    * Improved translation system performance by 4.5 BLEU score through Fine-tuning, Back-translation, Model Ensembling, and        Reranking.      
-   * Used Postman to do API testing, prepared analysis report by drawing comparisons between competing products such as Google      Translate, Youdao Translate.         
+   * Used Postman to do API testing, prepared analysis report by drawing comparisons between competing products such as Google      Translate, Youdao Translate.   
+   * Designed a web application to normalize analyte names semi-automatically for Hospital using React.js, MobX, and Bootstrap
+   * Built a relational database and handled queries through Object Relational Models with SQLAlchemy and Python.
+   * Created REST APIs to handle database requests and conducted unit test with Python Unit-test framework.  
+   * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.
+
+
+*	The Achievement of Toxical Prediction of Chemicals Based on CNN          
+   *	Conducted deep research on CNN and and used it to predict the toxical of chemicals      
+   *	Used molecular fingerprint to represent the chemicals
+   *  Used training data to train the Capsule Network and reached 86.5% accuracy based on TensorFlow      
+    
 
 
 * User Experience System Based on EEG and VR                         
@@ -53,11 +63,6 @@ Projects
   * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
  
  
-* Context Clustering Model Design 
-  * Created a dociment context clustering model with word embedding, updated it to GPU version with Numba, accelearating the clustering speed.            
-  * Created a document classifier with CNN model to automatically classify the in-coming documents with an accuracy of more than 90%.            
-  * Fine-tuned BERT model for ducument clustering and question ansering task.            
-
 
 * The Achievement of Water Level Prediction Based on Machine Learning Algorithms 
   * Used Pearson correlation coefficient to design adaptive algorithms, reduce the weight of the data that is less relevant to the current prediction and reduce model complexity.
@@ -71,13 +76,6 @@ Projects
   * Compared the effect of using Plasmonic Nano Antennas and using classical antenna (assuming the classical atenna has Perfect Electrical Conductor behavior)     
   * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band          
   * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.       
- 
-                
-* Grouping Web Application for Hospital
-  * Designed a web application to normalize analyte names semi-automatically for Hospital using React.js, MobX, and Bootstrap
-  * Built a relational database and handled queries through Object Relational Models with SQLAlchemy and Python.
-  * Created REST APIs to handle database requests and conducted unit test with Python Unit-test framework.  
-  * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.
 
 
                            
