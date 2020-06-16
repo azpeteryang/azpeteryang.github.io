@@ -49,11 +49,11 @@ Projects
    * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.
 
 
-* Power System Dispatch research                         
-  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
-  * Collected the Visual evoked potential data for EEG analysis.
-  * Implemented Logistic Regression to do the EEG real-time data analysis. 
-  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time. 
+* Course Assignments in ECE 6337: Electricity Market                        
+  * Calculated the Security Constrained Optimal Power Flow(SCOPF) of the system.
+  * Determined power flow of the system, calculated the PTDFs in a power system, using PowerWorld Simulator, diagram to reproduce the system.     
+  * Formulated a linear programming problem for the power system and determine the optimal reserve schedule to meet the energy and reserve requirements.      
+  
 
 
 * User Experience System Based on EEG and VR                         
