@@ -66,7 +66,11 @@ Projects
   * Determined power flow of the system, calculated the PTDFs in a power system, using PowerWorld Simulator, diagram to reproduce the system.     
   * Formulated a linear programming problem for the power system and determine the optimal reserve schedule to meet the energy and reserve requirements.      
   
- 
+ * Course Assignments in ECE 6337: Electricity Market                        
+  * Applied signal processing and machine learning techniques to spectroscopy data to differentiate brain tissues
+  * Designed and implemented synchronization scheme for controlling exposure in stereo X-ray imaging system     
+  * Processed stereo images of spine for 3D reconstruction based on statistical shape model of vertebrae 
+  
  
 
 * The Achievement of Water Level Prediction Based on Machine Learning Algorithms 
