@@ -49,11 +49,11 @@ Projects
    * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.
 
 
-*	The Achievement of Toxical Prediction of Chemicals Based on CNN          
-   *	Conducted deep research on CNN and and used it to predict the toxical of chemicals      
-   *	Used molecular fingerprint to represent the chemicals
-   *  Used training data to train the Capsule Network and reached 86.5% accuracy based on TensorFlow      
-    
+* Power System Dispatch research                         
+  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
+  * Collected the Visual evoked potential data for EEG analysis.
+  * Implemented Logistic Regression to do the EEG real-time data analysis. 
+  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time. 
 
 
 * User Experience System Based on EEG and VR                         
