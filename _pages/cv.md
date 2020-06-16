@@ -38,6 +38,14 @@ Internship experience
 Projects
 ======     
 
+* User Experience System Based on EEG and VR                         
+  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
+  * Collected the Visual evoked potential data for EEG analysis.
+  * Implemented Logistic Regression to do the EEG real-time data analysis. 
+  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
+  
+  
+  
 * Translation System Design for Hospital               
    * Developed a neural machine translation system based on neural network architecture Transformer.      
    * Collected and preprocessed training data by Truecasing, Tokenization, and Normalization.      
@@ -54,13 +62,6 @@ Projects
   * Determined power flow of the system, calculated the PTDFs in a power system, using PowerWorld Simulator, diagram to reproduce the system.     
   * Formulated a linear programming problem for the power system and determine the optimal reserve schedule to meet the energy and reserve requirements.      
   
-
-
-* User Experience System Based on EEG and VR                         
-  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
-  * Collected the Visual evoked potential data for EEG analysis.
-  * Implemented Logistic Regression to do the EEG real-time data analysis. 
-  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
  
  
 
