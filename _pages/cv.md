@@ -69,13 +69,7 @@ Projects
   * Optimized and Approved the machine learning models (Multivariate Linear Model, Ridge Regression Model, SVM) based on scikit-learn to predict the water level. 
   * Arrived to the result that the optimized Multivariate Linear Model is the best model for the data and reached a very low error rate of 0.022%.
   * Did the data visualization of the water level data prediction.            
-
-
-* Research on Nano Sensors        
-  * Conducted Research on Nano Sensors and designed Antenna for Wireless Network communication of Nano Sensors         
-  * Compared the effect of using Plasmonic Nano Antennas and using classical antenna (assuming the classical atenna has Perfect Electrical Conductor behavior)     
-  * Did Simulation of the length of the Nano Antenna with respect to the frequency in Terahertz band          
-  * Designed Dynamic Massive MIMO to solve the distance problem of communicating using Terahertz band by properly placing antenna elements which can swich among different modes.       
+      
 
 
                            
