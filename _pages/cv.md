@@ -44,6 +44,10 @@ Projects
   * Implemented Logistic Regression to do the EEG real-time data analysis. 
   * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
   
+* Ultrasonic Imaging Lab Project                         
+  * Designed a novel pulse compression scheme using spatial match filters and improved SNR by 15 dB       
+  * Implemented and optimized beamformers with high SNR by using array signal processing techniques      
+  * Used Image Quality Metrics to evaluate the performance of signal processing for ultrasound imaging.      
   
   
 * Translation System Design for Hospital               
