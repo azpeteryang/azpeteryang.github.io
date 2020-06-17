@@ -16,10 +16,9 @@ Education
 
 Internship experience
 ======
-* Objection Detection Using Machine Learning Methods at Zhun Xing Yun Xue Technology             
+* Hand-Written Detection Using Machine Learning Methods at Zhun Xing Yun Xue Technology             
   Jun-Aug 2017
-  * Created a graph generator with multiprocessing techniques using OpenCV, generate large-scale datasets of simulated graphs.
-  * Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of the detection.
+  * Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of hand-written detection.
   * Designed a model for object detection using optimized ResNet by Online Hard Example Mining.
   * The optimized model increased 3% accuracy and 3 times faster training speed comparing to the built-in ResNet in PyTorch.
             
