@@ -26,11 +26,10 @@ Internship experience
 * Software Engineer at Gelan Technology                                                                
    Jan-Jul 2018   
   Project: Game Services and Core Engine Technology   
-  * Using C++ to construct new features with Lumberyard pipeline, allowing users to import files and folders without locally     pasting through directories.          
-  * Collaborated with product managers to design and implement the customer scoring system, including UI implementation with Qt5, dialog prompting decision mechanism, and data streaming into backend data warehouse.      
-  * Implemented a feature to create a unified UI and backend behavior for file across all windows in our product, as well as an efficient and cross-platform directory visualization method.      
-  * Applied the feature that flexibly collects and asynchronously sends customer telemetry data at various parts of the engine, including UI behaviors, hardware specification, and feature usages.      
-  * Collaborated with QA members with owned written unit tests throughout the production period, verifying complex and unclear bugs for steps of the bugs’ reproductions and the solution confirmations, improving productivity of bug fixing time.            
+  * Positioning Software Based on Low Energy Bluetooth
+  * Built up a software with Java which can show the position of an object, using RSSI propagation model to calculate the distance between the object and the anchor.
+  * Applied Kalman filter on RSSI to improve the algorithm, ignored some measuring of RSSI which are larger than a threshold to let the closest anchors measure the distance.
+  * Used MATLAB to simulate the results of the new algorithm, reached high accuracy of positioning.          
 
 
 
@@ -79,13 +78,6 @@ Projects
   * Arrived to the result that the optimized Multivariate Linear Model is the best model for the data and reached a very low error rate of 0.022%.
   * Did the data visualization of the water level data prediction.            
       
-
-
-                           
-* Positioning Software Based on Low Energy Bluetooth
-  * Built up a software with Java which can show the position of an object, using RSSI propagation model to calculate the distance between the object and the anchor.
-  * Applied Kalman filter on RSSI to improve the algorithm, ignored some measuring of RSSI which are larger than a threshold to let the closest anchors measure the distance.
-  * Used MATLAB to simulate the results of the new algorithm, reached high accuracy of positioning.
   
      
      
