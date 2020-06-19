@@ -25,8 +25,7 @@ Internship experience
             
 * Software Engineer at Gelan Technology                                                                
    Jan-Jul 2018   
-  Project: Game Services and Core Engine Technology   
-  * Positioning Software Based on Low Energy Bluetooth
+  Project: Positioning Software Based on Low Energy Bluetooth   
   * Built up a software with Java which can show the position of an object, using RSSI propagation model to calculate the distance between the object and the anchor.
   * Applied Kalman filter on RSSI to improve the algorithm, ignored some measuring of RSSI which are larger than a threshold to let the closest anchors measure the distance.
   * Used MATLAB to simulate the results of the new algorithm, reached high accuracy of positioning.          
