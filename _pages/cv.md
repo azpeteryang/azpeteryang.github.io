@@ -65,10 +65,6 @@ Projects
   * Formulated a linear programming problem for the power system and determine the optimal reserve schedule to meet the energy and reserve requirements.      
   
 
-* Research in Lab for 3D reconstruction based on statistical shape model                        
-  * Used machine learning and signal processing techniques to spectroscopy data to differentiate brain tissues
-  * Designed an synchronization scheme for controlling exposure in stereo X-ray imaging system     
-  * Processed stereo images of spine for 3D reconstruction based on statistical shape model of vertebrae 
   
  
 
