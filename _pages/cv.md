@@ -41,21 +41,16 @@ Projects
   * Implemented Logistic Regression to do the EEG real-time data analysis. 
   * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
   
-* Ultrasonic Imaging Lab Project                         
-  * Designed a novel pulse compression scheme using spatial match filters and improved SNR by 15 dB       
-  * Implemented and optimized beamformers with high SNR by using array signal processing techniques      
-  * Used Image Quality Metrics to evaluate the performance of signal processing for ultrasound imaging.      
   
-  
-* Translation System Design for Hospital               
-   * Developed a neural machine translation system based on neural network architecture Transformer.      
-   * Collected and preprocessed training data by Truecasing, Tokenization, and Normalization.      
-   * Improved translation system performance by 4.5 BLEU score through Fine-tuning, Back-translation, Model Ensembling, and        Reranking.      
-   * Used Postman to do API testing, prepared analysis report by drawing comparisons between competing products such as Google      Translate, Youdao Translate.   
-   * Designed a web application to normalize analyte names semi-automatically for Hospital using React.js, MobX, and Bootstrap
-   * Built a relational database and handled queries through Object Relational Models with SQLAlchemy and Python.
-   * Created REST APIs to handle database requests and conducted unit test with Python Unit-test framework.  
-   * Achieved 30% data preparation time reducton for future data science projects by generating accurate analyte groupings.
+* Translation System Design for Hospital                                                                                       
+  *	Designed an application to translate English-Chinese translation system for Hospital, construct the front-end for the   system using Bootstap and Node.js.   
+  *	Built a relational database and handled queries through Object Relational Models with Python.    
+  *	Used Neural Network Architecture Transformer to develop a Neural Machine Translation system.   
+  *	Collected and preprocessed training data by Tokenization and Normalization.   
+  *	Improved translation system performance by 0.76 BLEU score through Fine-tuning, Back translation and Reranking.   
+  *	Used Postman to do API testing, prepared analysis report by drawing comparisons between other Translation systems.   
+
+
 
 
 * Course Assignments in ECE 6337: Electricity Market                        
@@ -92,7 +87,7 @@ Skills
 * Coding
   * Matlab, Python, C++/C, JavaScript, Pytorch, TensorFlow
 * Others 
-  * git, Hadoop, OpenCV, MATLAB, Android, Arduino, A/B Testing
+  * git, Hadoop, OpenCV, MATLAB, Android
 
 
 
