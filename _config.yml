@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhenyu Yang"
-  avatar           : "picture.jpeg"
+  avatar           : 
   bio              : "Master student in ECE @ Georgia Tech"
   location         : "Atlanta, GA, USA"
   employer         :
