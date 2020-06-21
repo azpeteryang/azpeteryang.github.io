@@ -17,14 +17,12 @@ Education
 Internship experience
 ======
 * Hand-Written Detection Using Machine Learning Methods at Zhun Xing Yun Xue Technology             
-  Jun-Aug 2017
   * Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of hand-written detection.
   * Designed a model for object detection using optimized ResNet by Online Hard Example Mining.
   * The optimized model increased 3% accuracy and 3 times faster training speed comparing to the built-in ResNet in PyTorch.
             
             
-* Software Engineer at Gelan Technology                                                                
-   Jan-Jul 2018   
+* Software Engineer at Gelan Technology                                                                  
   Project: Positioning Software Based on Low Energy Bluetooth   
   * Built up a software with Java which can show the position of an object, using RSSI propagation model to calculate the distance between the object and the anchor.
   * Applied Kalman filter on RSSI to improve the algorithm, ignored some measuring of RSSI which are larger than a threshold to let the closest anchors measure the distance.
