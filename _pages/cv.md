@@ -46,10 +46,10 @@ Projects
   *	Used Neural Network Architecture Transformer to develop a Neural Machine Translation system.   
   *	Collected and preprocessed training data by Tokenization and Normalization.   
   *	Improved translation system performance by 0.76 BLEU score through Fine-tuning, Back translation and Reranking.   
-  *	Used Postman to do API testing, prepared analysis report by drawing comparisons between other Translation systems.   
+  *	Used Postman to do API testing, prepared analysis report by drawing comparisons between other Translation systems.       
 
 
-*	Lab Research on the Estimation of the Self-Interference Channel                                                                
+*	Lab Research on the Estimation of the Self-Interference Channel                                    
   *	Constructed the system model of Full-Duplex MIMO orthogonal frequency division multiplexing system.        
   *	Implemented an algorithm to find the Optimal Self-Interference Channel Estimator.      
   *	Did simulations on the Digital Self-Interference cancellation ability with respect to the number of transmit antennas.      
