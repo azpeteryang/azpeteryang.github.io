@@ -49,11 +49,13 @@ Projects
   *	Used Postman to do API testing, prepared analysis report by drawing comparisons between other Translation systems.       
 
 
-*	Lab Research on the Estimation of the Self-Interference Channel                                    
-  *	Constructed the system model of Full-Duplex MIMO orthogonal frequency division multiplexing system.        
+* Lab Research on the Estimation of the Self-Interference Channel                                                                     
+  *	Constructed the system model of Full-Duplex MIMO orthogonal frequency division multiplexing system.      
   *	Implemented an algorithm to find the Optimal Self-Interference Channel Estimator.      
-  *	Did simulations on the Digital Self-Interference cancellation ability with respect to the number of transmit antennas.      
-  *	Considered the Energy Efficient Problem by transforming it into a maximization of a convex function.      
+  * Did simulations on the Digital Self-Interference cancellation ability with respect to the number of transmit antennas.      
+  * Considered the Energy Efficient Problem by transforming it into a maximization of a convex function.
+
+
 
 * A Research of Sensor Networks Based on Cellular Automation                                                                     
   *	Optimized cellular automation algorithm and applied it in the sensor networks to save energy for sensor network, applied SDN (Software-Defined Network) for route control.      
