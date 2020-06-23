@@ -49,6 +49,16 @@ Projects
   *	Used Postman to do API testing, prepared analysis report by drawing comparisons between other Translation systems.   
 
 
+*	Lab Research on the Estimation of the Self-Interference Channel                                                                
+  *	Constructed the system model of Full-Duplex MIMO orthogonal frequency division multiplexing system.        
+  *	Implemented an algorithm to find the Optimal Self-Interference Channel Estimator.      
+  *	Did simulations on the Digital Self-Interference cancellation ability with respect to the number of transmit antennas.      
+  *	Considered the Energy Efficient Problem by transforming it into a maximization of a convex function.      
+
+* A Research of Sensor Networks Based on Cellular Automation                                                                     
+  *	Optimized cellular automation algorithm and applied it in the sensor networks to save energy for sensor network, applied SDN (Software-Defined Network) for route control.      
+  *	Simulated the average energy change of the nodes with MATLAB and found the energy decreased of the nodes slower than that of previous models.      
+  * Got the best research project award of the department on this topic.      
 
 
 * Course Assignments in ECE 6337: Electricity Market                        
