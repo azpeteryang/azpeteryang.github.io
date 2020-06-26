@@ -17,9 +17,9 @@ Education
 Internship experience
 ======
 * Hand-Written Detection Using Machine Learning Methods at Zhun Xing Yun Xue Technology             
-  * Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of hand-written detection.
-  * Designed a model for object detection using optimized ResNet by Online Hard Example Mining.
-  * The optimized model increased 3% accuracy and 3 times faster training speed comparing to the built-in ResNet in PyTorch.
+  * •	Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of the recognition.
+  * Designed a model for hand-written using optimized ResNet with Online Hard Example Mining and Multi-GPU training with parameter server architecture.
+  * The optimized model increased 3% accuracy and 3 times faster training speed comparing to the built-in ResNet in PyTorch. 
             
             
 * Software Engineer at Gelan Technology                                                                  
@@ -40,15 +40,29 @@ Projects
   * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
   
   
-* Translation System Design for Hospital                                                                                       
-  *	Designed an application to translate English-Chinese translation system for Hospital, construct the front-end for the   system using Bootstap and Node.js.   
-  *	Built a relational database and handled queries through Object Relational Models with Python.    
-  *	Used Neural Network Architecture Transformer to develop a Neural Machine Translation system.   
-  *	Collected and preprocessed training data by Tokenization and Normalization.   
-  *	Improved translation system performance by 0.76 BLEU score through Fine-tuning, Back translation and Reranking.   
-  *	Used Postman to do API testing, prepared analysis report by drawing comparisons between other Translation systems.       
+* Microblogs With Translation System                                                                                       
+  *	Implemented a micro-blog system with Chinese-English translation, the micro-blog system supports asynchronous post deletion (no need to loading after deleting a blog)  
+  *	Used Bootstrap framework for front-end development, supported the change of theme mode, used Spring framework for back-end development. Used Apache’s A/B tool to test the system, achieved an average of 4706 requests per second.    
+  *	Developed a neural machine translation system based on neural network architecture, preprocess training data through Tokenization and Normalization.   
+  *	Improved translation system performance by 0.76 BLEU score through Fine-tuning, Back translation and Reranking.       
 
 
+* Book Recommendation System                                                                                       
+  *	Realized a book recommendation system based on Apache Flink, collaborated with other members in the team to design the entire system, used React framework to design the Front-end of the System        
+  *	The Recommendation System was designed as multiple modules: Recommendation Engine module; Module to store users’ tags and real-time records based on HBase and Web module.         
+  *	Implemented two recommendation algorithms: Book similarity scores calculated by cosine similarity and by collaborative filtering, displayed the two algorithms in the Front-end respectively            
+  
+  
+  
+  
+* Online Image Labelling System                                                                                       
+  *	Designed and prototyped an online image labelling and data management platform for the lab to improve image labelling team work efficiency by 30%.             
+  *	Built the front end with HTML, CSS and JavaScript with Bootstrap Framework.                      
+  *	Achieved functionalities including data management and online labelling for the iterative development by implementing server-side RESTful APIs based on Spring Framework.           
+  
+  
+  
+  
 * Lab Research on the Estimation of the Self-Interference Channel                                                                     
   *	Constructed the system model of Full-Duplex MIMO orthogonal frequency division multiplexing system.      
   *	Implemented an algorithm to find the Optimal Self-Interference Channel Estimator.      
