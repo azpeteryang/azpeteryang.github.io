@@ -61,6 +61,19 @@ Projects
   *	Achieved functionalities including data management and online labelling for the iterative development by implementing server-side RESTful APIs based on Spring Framework.           
   
   
+  
+  
+* Online Image Labelling System                                                                                       
+  *	Owned end-to-end machine learning pipelines to detect fraudulent activities on Remitly’s platform, reducing fraud sideline rate from 3% to 1.5% when compared to rule-based systems, while maintaining industry lead fraud loss rate (LightGBM,Random Forest, XGBoost).                  
+  *	Solved the obscurity of model decision imposed on manual review by building model explanation engines using Shapley Additive explanations that explain individual predictions of black-box models. Collaborated with software engineers to deploy the explanation engine in production. Worked with operation team to create standard operation procedures and provide coaching on the explanation UI (SHAP, LIME, KNN).                          
+  *	Programmatically generated labels for millions of training data using weak supervision, addressing the bottleneck of lacking ground truth labels (Snorkel).     
+  * Reduced the label noise by semi-supervision, achieving 1500bps lift in precision at the same level of recall on holdout set.      
+  * Mentored machine learning intern projects and hosted brown-bag sessions to share novel machine learning techniques.      
+  * Generates weekly metrics and reports to communicate model performance and progress with business stakeholders.       
+
+
+
+
 
 * Speech Recognition Using MFCC and LPC                                                                                       
   *	Used dataset which includes 6 alphabets with 3 different speakers to do automatic speech recognition based on MATLAB.     
