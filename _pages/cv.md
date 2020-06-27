@@ -63,7 +63,7 @@ Projects
   
   
   
-* Online Image Labelling System                                                                                       
+* Machine Learning Internship at Future Media Lab (Advisor: Professor Hengtao Sheng)                                                                                     
   *	Owned end-to-end machine learning pipelines to detect fraudulent activities on Remitly’s platform, reducing fraud sideline rate from 3% to 1.5% when compared to rule-based systems, while maintaining industry lead fraud loss rate (LightGBM,Random Forest, XGBoost).                  
   *	Solved the obscurity of model decision imposed on manual review by building model explanation engines using Shapley Additive explanations that explain individual predictions of black-box models. Collaborated with software engineers to deploy the explanation engine in production. Worked with operation team to create standard operation procedures and provide coaching on the explanation UI (SHAP, LIME, KNN).                          
   *	Programmatically generated labels for millions of training data using weak supervision, addressing the bottleneck of lacking ground truth labels (Snorkel).     
