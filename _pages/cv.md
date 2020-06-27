@@ -61,14 +61,11 @@ Projects
   *	Achieved functionalities including data management and online labelling for the iterative development by implementing server-side RESTful APIs based on Spring Framework.           
   
   
-  
-  
-* Lab Research on the Estimation of the Self-Interference Channel                                                                     
-  *	Constructed the system model of Full-Duplex MIMO orthogonal frequency division multiplexing system.      
-  *	Implemented an algorithm to find the Optimal Self-Interference Channel Estimator.      
-  * Did simulations on the Digital Self-Interference cancellation ability with respect to the number of transmit antennas.      
-  * Considered the Energy Efficient Problem by transforming it into a maximization of a convex function.
 
+* Speech Recognition Using MFCC and LPC                                                                                       
+  *	Used dataset which includes 6 alphabets with 3 different speakers to do automatic speech recognition based on MATLAB.     
+  *	Extracted MFCC and LPC coefficients from speech signals and used the coefficients as features for a Gaussian Mixtures Model, analyzed the relationship between the number of coefficients and accuracy.                              
+  *	Analyzed the test data by mahalanobis distance to the model due to high autocorrelation       
 
 
 * A Research of Sensor Networks Based on Cellular Automation                                                                     
@@ -76,12 +73,6 @@ Projects
   *	Simulated the average energy change of the nodes with MATLAB and found the energy decreased of the nodes slower than that of previous models.      
   * Got the best research project award of the department on this topic.      
 
-
-* Course Assignments in ECE 6337: Electricity Market                        
-  * Calculated the Security Constrained Optimal Power Flow(SCOPF) of the system.
-  * Determined power flow of the system, calculated the PTDFs in a power system, using PowerWorld Simulator, diagram to reproduce the system.     
-  * Formulated a linear programming problem for the power system and determine the optimal reserve schedule to meet the energy and reserve requirements.      
-  
 
   
  
