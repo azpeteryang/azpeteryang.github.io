@@ -104,6 +104,11 @@ Projects
   * Analyzed the bit error rate performance curve of the transmitting antenna under the independent Rayleigh channel, compare with the curve of the single transmitting-receiving antenna under the same conditions.
   * Simulated using two transmitted antennas to transmit in order to get the spatial diversity gain, used one receiving antenna to receive signals.
   * Arrived the result that the bit error rate has been significantly decreased after using space-time block codes. 
+  
+  
+* 3D Simulation of UAV Based on MPI and OpenGL.     
+  * Simulated the motion of UAV and used OpenGL to visualize the scene (including the environment), used MPI (Message Passing Interface) to operate a program in 20 threads and 10 nodes based on Linux.      
+  * Messages are passing between the 20 threads, 1 thread is used for describing a 3D scene of the other 19 threads and the environment, the magnitude of UAV’s color is changed based on its location and the color of the environment is also simulated.      
 
                  
 
