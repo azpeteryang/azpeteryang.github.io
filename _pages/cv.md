@@ -40,6 +40,12 @@ Projects
   * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
   
   
+* Psychological Regulations System                         
+  * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users' respective psychological conditions.      
+  * Used Arduino to develop a method to send data collected from brainwave and skin conductor sensors.      
+  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users' physiological data via curve graph in real time.          
+
+
 * Microblogs With Translation System                                                                                       
   *	Implemented a micro-blog system with Chinese-English translation, the micro-blog system supports asynchronous post deletion (no need to loading after deleting a blog)  
   *	Used Bootstrap framework for front-end development, supported the change of theme mode, used Spring framework for back-end development. Used Apache’s A/B tool to test the system, achieved an average of 4706 requests per second.    
