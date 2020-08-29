@@ -31,19 +31,7 @@ Internship experience
 
 
 Projects
-======     
-
-* User Experience System Based on EEG and VR                         
-  * Created a system to analysis the users' emotion reaction to certain virtual environment scene using EEG data analysis.
-  * Collected the Visual evoked potential data for EEG analysis.
-  * Implemented Logistic Regression to do the EEG real-time data analysis. 
-  * Realized ability to store and retrieve data in self-built AWS Cloud database, presented users’ physiological data via curve graph in real time.       
-  
-  
-* Psychological Regulations System                         
-  * Completed a decision tree in analysis process, achieved automatic selection of different videos according to users' respective psychological conditions.      
-  * Used Arduino to develop a method to send data collected from brainwave and skin conductor sensors.      
-  * Realized ability to store and retrieve data in self-built Alibaba Cloud database, presented users' physiological data via curve graph in real time.          
+======             
 
 
 * Microblogs With Translation System                                                                                       
@@ -58,13 +46,6 @@ Projects
   *	The Recommendation System was designed as multiple modules: Recommendation Engine module; Module to store users’ tags and real-time records based on HBase and Web module.         
   *	Implemented two recommendation algorithms: Book similarity scores calculated by cosine similarity and by collaborative filtering, displayed the two algorithms in the Front-end respectively            
   
-  
-  
-  
-* Online Image Labelling System                                                                                       
-  *	Designed and prototyped an online image labelling and data management platform for the lab to improve image labelling team work efficiency by 30%.             
-  *	Built the front end with HTML, CSS and JavaScript with Bootstrap Framework.                      
-  *	Achieved functionalities including data management and online labelling for the iterative development by implementing server-side RESTful APIs based on Spring Framework.           
   
   
   
@@ -111,11 +92,6 @@ Projects
   * Simulated using two transmitted antennas to transmit in order to get the spatial diversity gain, used one receiving antenna to receive signals.
   * Arrived the result that the bit error rate has been significantly decreased after using space-time block codes. 
   
-  
-* 3D Simulation of UAV Based on MPI and OpenGL.     
-  * Simulated the motion of UAV and used OpenGL to visualize the scene (including the environment), used MPI (Message Passing Interface) to operate a program in 20 threads and 10 nodes based on Linux.      
-  * Messages are passing between the 20 threads, 1 thread is used for describing a 3D scene of the other 19 threads and the environment, the magnitude of UAV’s color is changed based on its location and the color of the environment is also simulated.      
-
                  
 
 
