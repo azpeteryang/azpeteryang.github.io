@@ -16,18 +16,17 @@ Education
 
 Internship experience
 ======
-* Hand-Written Detection Using Machine Learning Methods at Zhun Xing Yun Xue Technology             
-  * •	Used and compared different methods to pre-process the image datasets, observed that converting the image to the frequency domain has a very good effect in improving the accuracy of the recognition.
-  * Designed a model for hand-written using optimized ResNet with Online Hard Example Mining and Multi-GPU training with parameter server architecture.
-  * The optimized model increased 3% accuracy and 3 times faster training speed comparing to the built-in ResNet in PyTorch. 
-            
-            
-* Software Engineer at Gelan Technology                                                                  
-  Project: Positioning Software Based on Low Energy Bluetooth   
-  * Built up a software with Java which can show the position of an object, using RSSI propagation model to calculate the distance between the object and the anchor.
-  * Applied Kalman filter on RSSI to improve the algorithm, ignored some measuring of RSSI which are larger than a threshold to let the closest anchors measure the distance.
-  * Used MATLAB to simulate the results of the new algorithm, reached high accuracy of positioning.          
+* KPMG Virtual Internship (2020)                                                                                                  	       
+•	Implemented a database system for the data, initiated mechanisms to optimize the database and queries (index optimization, data table optimization, etc.), reducing completion time of multiple tasks.      
+•	Applied Logistic Regression to predict the growing of the number of customers, collaborated with teammates to develop reports and dashboards using Tableau.    
 
+* Internship in Chengdu Zhunxingyunxue Technology                                                                             	                   
+•	Helped the company to build an image labelling system and data management platform to improve the work efficiency of the image labeling team, collaborated with colleagues to program and debug.      
+•	Achieved functionalities including data management and image labelling for iterative development by implementing server-side RESTful APIs based on Spring Framework.      
+•	Designed a model for image recognition using optimized ResNet with Online Hard Example Mining and Multi-GPU training with parameter server architecture.      
+•	The optimized model increased accuracy and training speed comparing to the built-in ResNet in PyTorch.      
+
+ 
 
 
 Projects
