@@ -26,6 +26,11 @@ Internship experience
 •	Designed a model for image recognition using optimized ResNet with Online Hard Example Mining and Multi-GPU training with parameter server architecture.      
 •	The optimized model increased accuracy and training speed comparing to the built-in ResNet in PyTorch.      
 
+* Internship in Gelan Technology                                                                             	                   
+•	Built up a positioning software, used RSSI model for distance calculation, the error of positioning is less than 0.5m.      
+•	Applied Kalman filter to improve the algorithm, collaborated with team members to improve the signal processing stability of the Physical Layer of the Wi-Fi system.      
+
+
  
 
 
