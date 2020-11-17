@@ -17,18 +17,22 @@ Education
 Internship experience
 ======
 * KPMG Virtual Internship (2020)                                                                                                  	       
-•	Implemented a database system for the data, initiated mechanisms to optimize the database and queries (index optimization, data table optimization, etc.), reducing completion time of multiple tasks.      
-•	Applied Logistic Regression to predict the growing of the number of customers, collaborated with teammates to develop reports and dashboards using Tableau.    
+•	Implemented a database system for the data, cleaned, manipulated large datasets from different servers. 
+•	Initiated mechanisms to optimize the database and queries (index optimization, data table optimization, etc.), reducing completion time of multiple tasks by 20%.
+•	Applied scilit-learn to predict the growing of the number of customers, collaborated with teammates to develop reports and dashboards using Tableau.
+    
 
 * Internship in Chengdu Zhunxingyunxue Technology                                                                             	                   
-•	Helped the company to build an image labelling system and data management platform to improve the work efficiency of the image labeling team, collaborated with colleagues to program and debug.      
-•	Achieved functionalities including data management and image labelling for iterative development by implementing server-side RESTful APIs based on Spring Framework.      
-•	Designed a model for image recognition using optimized ResNet with Online Hard Example Mining and Multi-GPU training with parameter server architecture.      
-•	The optimized model increased accuracy and training speed comparing to the built-in ResNet in PyTorch.      
+•	Helped the company to build an image labelling system and data management platform to improve the work efficiency of the image labeling team, collaborated with colleagues to program and debug.         
+•	Achieved functionalities including data management and image labelling for iterative development by implementing REST API based on Spring Framework.          
+•	Optimized the infrastructure which allows team members to SSH into the development environment, rebuilt SSH bastion of the lab for connecting to Kubernetes nodes in different areas.         
+•	Designed a model for image recognition using optimized ResNet with Online Hard Example Mining and Multi-GPU training with parameter server architecture.         
+•	The optimized model increased accuracy and reached faster training speed comparing to the built-in ResNet in PyTorch.       
+    
 
 * Internship in Gelan Technology                                                                             	                   
-•	Built up a positioning software, used RSSI model for distance calculation, the error of positioning is less than 0.5m.      
-•	Applied Kalman filter to improve the algorithm, collaborated with team members to improve the signal processing stability of the Physical Layer of the Wi-Fi system.      
+•	Built up a positioning software, used RSSI model for distance calculation, the error of positioning is less than 0.5m.            
+•	Applied Kalman filter to improve the algorithm, collaborated with team members to improve the signal processing stability of the Physical Layer of the Wi-Fi system.            
 
 
  
@@ -38,18 +42,18 @@ Projects
 ======             
 
 
-* Microblogs With Translation System                                                                                       
-  *	Implemented a micro-blog system with Chinese-English translation, the micro-blog system supports asynchronous post deletion (no need to loading after deleting a blog)  
-  *	Used Bootstrap framework for front-end development, supported the change of theme mode, used Spring framework for back-end development. Used Apache’s A/B tool to test the system, achieved an average of 4706 requests per second.    
-  *	Developed a neural machine translation system based on neural network architecture, preprocess training data through Tokenization and Normalization.   
-  *	Improved translation system performance by 0.76 BLEU score through Fine-tuning, Back translation and Reranking.       
+* Android Microblog APP                                                                                       
+  •	Built an Android microblog app which supports translation function and used Adobe XD to design the wireframe for the system, used Apache’s A/B tool to test the system, achieved an average of 4706 requests per second.      
+•	Did UI design for the system, supported the change of theme mode, implemented XSS Defence for the system, combined Redis and MySQL to be the database of the system.      
+•	Developed a neural network machine translation system based on neural network architecture, preprocessed training data using Tokenization and Normalization, improved translation performance through Fine-tuning and Back translation.      
+      
 
 
 * Book Recommendation System                                                                                       
-  *	Realized a book recommendation system based on Apache Flink, collaborated with other members in the team to design the entire system, used React framework to design the Front-end of the System        
-  *	The Recommendation System was designed as multiple modules: Recommendation Engine module; Module to store users’ tags and real-time records based on HBase and Web module.         
-  *	Implemented two recommendation algorithms: Book similarity scores calculated by cosine similarity and by collaborative filtering, displayed the two algorithms in the Front-end respectively            
-  
+  •	Realized a book recommendation system based on Apache Flink, collaborated with other members in the team to design the entire system, applied Sketch to do the UI design, used React framework to design the Front-end of the System.      
+•	Used Apache Lucene to do the frequency calculation which can support the recommendation algorithms.      
+•	Developed a scalable ETL pipeline to process 132GB data based on Hadoop and HBase.      
+
   
   
   
@@ -78,7 +82,10 @@ Projects
   * Got the best research project award of the department on this topic.      
 
 
-  
+* Distributed File System Design 
+•	Collaborated with team members to implement a distributed system to support clients to operate files on servers concurrently, realized RPC on both client and server sides.      
+•	Developed the two-layer system (including local cache and remote server) distributed system based on Java RMI.      
+
  
 
 * The Achievement of Water Level Prediction Based on Machine Learning Algorithms 
