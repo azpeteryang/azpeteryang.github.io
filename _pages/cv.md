@@ -108,12 +108,3 @@ Projects
 
 
 
-Skills
-======
-* Coding
-  * Matlab, Python, C++/C, C#, JavaScript, Pytorch, TensorFlow
-* Others 
-  * git, Hadoop, OpenCV, MATLAB, Android
-
-
-
