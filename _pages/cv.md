@@ -16,16 +16,18 @@ Education
 
 Internship experience
 ======
-* KPMG Virtual Internship (2020)                                                                                                  	       
-•	Implemented a database system for the data, cleaned, manipulated large datasets from different servers. 
-•	Initiated mechanisms to optimize the database and queries (index optimization, data table optimization, etc.), reducing completion time of multiple tasks by 20%.
-•	Applied scilit-learn to predict the growing of the number of customers, collaborated with teammates to develop reports and dashboards using Tableau.
+* KPMG                                                                                                        	       
+•	Implemented a database system for the data, cleaned, manipulated large datasets from different servers.       
+•	Initiated mechanisms to optimize the database and queries (index optimization, data table optimization, etc.), reducing completion time of multiple tasks by 20%.      
+•	Applied scilit-learn to predict the growing of the number of customers, collaborated with teammates to develop reports and dashboards using Tableau.      
     
 
 * Internship in Chengdu Zhunxingyunxue Technology                                                                             	                   
 •	Helped the company to build an image labelling system and data management platform to improve the work efficiency of the image labeling team, collaborated with colleagues to program and debug.         
+•	Inserted a real-time detecting module to physical layer of the network system to report the problem of single route link and implemented recovery module to the virtual network platform.      
 •	Achieved functionalities including data management and image labelling for iterative development by implementing REST API based on Spring Framework.          
-•	Optimized the infrastructure which allows team members to SSH into the development environment, rebuilt SSH bastion of the lab for connecting to Kubernetes nodes in different areas.         
+•	Optimized the infrastructure which allows team members to SSH into the development environment, rebuilt SSH bastion of the lab for connecting to Kubernetes nodes in different areas.       
+•	Improved the previous batch process with Kafka, which has the function of data model synchronization between teams, reducing teams’ waiting time by 30 to 60 minutes.      
 •	Designed a model for image recognition using optimized ResNet with Online Hard Example Mining and Multi-GPU training with parameter server architecture.         
 •	The optimized model increased accuracy and reached faster training speed comparing to the built-in ResNet in PyTorch.       
     
